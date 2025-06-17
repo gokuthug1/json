@@ -1,0 +1,11 @@
+{
+  "songName": "Custom Test",
+  "artist": "JLB",
+  "musicUrl": "nul",
+  "chart": [
+    { "time": 2246, "key": 1 },
+    { "time": 2707, "key": 3 },
+    { "time": 3169, "key": 2 },
+    { "time": 3630, "key": 4 },
+ ]
+}
